@@ -952,6 +952,7 @@
 - [Matt Nelson](https://github.com/Matthew-Nelson)
 - [TonyTheTiger323/Tony Greeley](https://github.com/tonythetiger323)
 - [Stenout](https://github.com/stenout)
+- [Colin Davis](https://github.com/colin-m-davis)
 - [Jangrie](https://github.com/jangrie)
 - [Andrew Limaru](https://github.com/andr3wll)
 - [Chuk Robertson](https://github.com/chukrobertson)
